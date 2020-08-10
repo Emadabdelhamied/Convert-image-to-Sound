@@ -1,3 +1,4 @@
+# author Emad Abd El-Hamied Nasr
 '''Converting image to Sound'''
 import os
 import time
